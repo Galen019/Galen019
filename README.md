@@ -1,6 +1,8 @@
 Hi there 👋, I'm Galen
 
 A full-stack engineer specializing in backend java, but has general experience with most backend languages
+
+
 Also has front end experience with Vue.js
 
 Looking for a new full time Software Engineer position
