@@ -5,7 +5,7 @@ Also has front end experience with Vue.js
 
 Looking for a new full time Software Engineer position
 
-- 🌱 I’m currently learning
+🌱 I’m currently learning
 - GoLang
 - React.js
 
