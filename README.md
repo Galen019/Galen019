@@ -7,7 +7,8 @@ Also has front end experience with Vue.js and Java Swing
 Looking for a new full time Software Engineer position
 
 🌱 I’m currently learning
-- GoLang
+- ExpressJS
+- NextJS
 - React.js
 
 <!--
