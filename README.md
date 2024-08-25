@@ -2,14 +2,14 @@ Hi there 👋, I'm Galen
 
 A full-stack engineer specializing in backend java, but has general experience with most backend languages
 
-Also has front end experience with Vue.js and Java Swing
+Front end experience with Vue.js and Java Swing
 
 Looking for a new full time Software Engineer position
 
 🌱 I’m currently learning
 - Terraform
-- NextJS
-- React.js
+- Next js
+- Express js
 
 <!--
 **Galen019/Galen019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
