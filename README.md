@@ -10,6 +10,7 @@ Looking for a new full time Software Engineer position
 - Terraform
 - Next js
 - Express js
+- GoLang
 
 <!--
 **Galen019/Galen019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
