@@ -7,10 +7,10 @@ Front end experience with Vue.js and Java Swing
 Looking for a new full time Software Engineer position
 
 🌱 I’m currently learning
-- Terraform
+- Python Spark
 - Next js
 - Express js
-- GoLang
+- Terraform
 
 <!--
 **Galen019/Galen019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
