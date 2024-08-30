@@ -2,7 +2,7 @@ Hi there 👋, I'm Galen
 
 A full-stack engineer specializing in backend java, but has general experience with most backend languages
 
-Front end experience with Vue.js and Java Swing
+Front end experience with Vue.js, React, and Java Swing
 
 Looking for a new full time Software Engineer position
 
