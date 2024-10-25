@@ -4,8 +4,6 @@ A full-stack engineer specializing in backend java, but has general experience w
 
 Front end experience with Vue.js, React, and Java Swing
 
-Looking for a new full time Software Engineer position
-
 🌱 I’m currently learning
 - Python Spark
 - Next js
