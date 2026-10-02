@@ -6,6 +6,9 @@ Front end experience with Vue.js, ReactJs
 
 🌱 I’m currently learning
 - NestJS
+- GoLang
+- OTel
+- SRE workflows
 
 <!--
 **Galen019/Galen019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
