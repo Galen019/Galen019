@@ -1,14 +1,11 @@
 Hi there 👋, I'm Galen
 
-A full-stack engineer specializing in backend java, but has general experience with most backend languages
+A full-stack engineer specializing in backend java and python, but has general experience with most backend languages
 
-Front end experience with Vue.js, React, and Java Swing
+Front end experience with Vue.js, ReactJs
 
 🌱 I’m currently learning
-- Python Spark
-- Next js
-- Express js
-- Terraform
+- NestJS
 
 <!--
 **Galen019/Galen019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
